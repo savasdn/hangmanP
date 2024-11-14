@@ -1,2 +1,1 @@
-# hangmanP
--
+Hangman is a word-guessing game where one player thinks of a word, and the other player tries to guess it by suggesting letters. Each incorrect guess results in a part of a stick figure being drawn (usually starting with the head, then body, limbs, etc.). The game continues until the guesser either correctly guesses the word or the stick figure is fully drawn, indicating they’ve lost.
